@@ -20,7 +20,7 @@ Ensure the following environment requirements are met before installation:
 
 ### 1. Repository Setup
 ```bash
-git clone <repository-url>
+git clone https://github.com/AKSHCHAUHAN1/Blog-Master.git
 cd mern-blog-master
 ```
 ### 2. Backend Environment Setup
